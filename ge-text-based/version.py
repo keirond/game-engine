@@ -1,0 +1,9 @@
+short_name = "TextBGE"
+name = "Text-based Game Engine"
+major = 0
+minor = 1
+patch = 0
+status = "dev"
+module_config = ""
+website = ""
+docs = "latest"
